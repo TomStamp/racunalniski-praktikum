@@ -1,5 +1,5 @@
 # Računalniški-praktikum
 
 - Ctrl + Home - pomik na začetek dokumenta
-- Alt + puščica levo/desno - pomik na začetek/konec vrstice
+- Home - pomik na začetek vrstice
 - Ctrl + puščica levo/desno - pomik na začetek/konec vrstice
