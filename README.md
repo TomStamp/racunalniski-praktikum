@@ -1,4 +1,4 @@
-# Računalniški-praktikum
+# Računalniški praktikum
 
 - Ctrl + Home - pomik na začetek dokumenta
 - Home - pomik na začetek vrstice
